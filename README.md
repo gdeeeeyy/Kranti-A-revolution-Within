@@ -1,4 +1,4 @@
-# Kranti-A-revolution-Within
+# Kranti: A Revolution Within
 This is a magazine website, with only front-end web development, with upcoming back-end applications. This is a wwebpage that asserts revolutionary and can also be used as a tool to teach political correctness to every teenager, or even kids.
 # Video Demo of this project:
 
