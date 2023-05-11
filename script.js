@@ -56,3 +56,23 @@ input.addEventListener("change", function (e) {
   dropArea.innerHTML = filedata;
 });
 
+function inputvalid(){
+    const signmail=document.getElementbyId("email"),
+          signpswd=document.getElementbyId("password"),
+          logmail=document.getElementbyId("email1"),
+          name=document.getElementbyId("name"),
+          pswd=document.getElementbyId("pswd"),
+          cpswd=document.getElementbyId("cpswd");
+    if(signmail.length<1 && signpswd.length<1){
+        alert("Please enter your sign in details");
+    }
+    if(name.length<1 && logmail.length<1 && name.length<1){
+        alert("Please enter your login credentials");
+    }
+    if(pswd.length<8){
+        alert("Please enter a password more than 8 characters long");
+    }
+    if(pswd!=cpswd){
+        alert("Please check your password");
+    }
+}
