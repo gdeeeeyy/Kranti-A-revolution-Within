@@ -55,14 +55,14 @@ input.addEventListener("change", function (e) {
     </form>`;
   dropArea.innerHTML = filedata;
 });
-
+//input validation
 function inputvalid(){
-    const signmail=document.getElementbyId("email"),
-          signpswd=document.getElementbyId("password"),
-          logmail=document.getElementbyId("email1"),
-          name=document.getElementbyId("name"),
-          pswd=document.getElementbyId("pswd"),
-          cpswd=document.getElementbyId("cpswd");
+    const signmail=document.getElementbyId("email").value,
+          signpswd=document.getElementbyId("password").value,
+          logmail=document.getElementbyId("email1").value,
+          name=document.getElementbyId("name").value,
+          pswd=document.getElementbyId("pswd").value,
+          cpswd=document.getElementbyId("cpswd").value;
     if(signmail.length<1 && signpswd.length<1){
         alert("Please enter your sign in details");
     }
