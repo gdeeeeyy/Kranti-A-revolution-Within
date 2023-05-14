@@ -1,5 +1,11 @@
 # Kranti: A Revolution Within
-This is a magazine website, with only front-end web development, with upcoming back-end applications. This is a wwebpage that asserts revolutionary and can also be used as a tool to teach political correctness to every teenager, or even kids.
+Kranti is a front-end web application that showcases revolutionary magazines and related content. The project was developed using HTML, CSS, and JavaScript, with a focus on user experience and aesthetics.
+The Home page is the landing page for the website, featuring an attractive header, a featured article, and a list of recent articles. The page layout is designed to be user-friendly, with easy navigation and quick access to other sections of the website.
+The About page provides visitors with more information about the project, including its mission, values, and objectives. The page also includes a brief history of the project and its founders, as well as a team section with photos and biographies of the team members.
+The Insights page is where visitors can access a range of articles, news, and other content related to revolutionary magazines. The page features a list of categories, including politics, culture, science, and technology, among others. Visitors can browse through the categories and access the articles of their choice, which are displayed in a grid layout with a thumbnail image and a short description.
+Finally, the Login/Signup page provides users with a way to access the website's features. The page includes input validation to ensure that users enter valid information, and it also features a password reset function in case users forget their passwords. However, since Kranti is a front-end project, there is no back-end functionality, and the Login/Signup page does not include any security measures.
+In conclusion, Kranti is a front-end project that showcases revolutionary magazines and related content. The project was developed using HTML, CSS, and JavaScript, with a focus on user experience and aesthetics. Although the Login/Signup page includes input validation, there is no back-end functionality, and the project does not include any security measures. Nonetheless, Kranti is a well-designed and functional web application that aims to promote revolutionary magazines and related content.
+
 # Video Demo of this project:
 
 https://user-images.githubusercontent.com/73658032/235988355-0e30c01f-dfa0-4e9e-b61a-48aa898cf98a.mp4
@@ -22,4 +28,4 @@ https://user-images.githubusercontent.com/73658032/235988355-0e30c01f-dfa0-4e9e-
 ![Screenshot (474)](https://user-images.githubusercontent.com/73658032/235989890-c2507a5a-fb68-4e80-bed5-b9b57a84b170.png)
 
 # Conclusion:
-This is a project made to showcase my front-end web development skills using HTML, CSS and JavaScript. Please feel free to take any references and use it in your projects;)
+In summary, Kranti is a front-end web application developed using HTML, CSS, and JavaScript. It showcases revolutionary magazines and related content, with easy navigation and a user-friendly design. The Home, About, and Insights pages provide visitors with an overview of the project and access to recent articles, while the Login/Signup page allows users to access the website's features. Although there is no back-end functionality or security measures, Kranti is a well-designed and functional web application that provides a convenient and attractive platform for users to explore and engage with revolutionary ideas and content.
